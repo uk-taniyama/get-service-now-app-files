@@ -1,0 +1,7 @@
+module.exports = {
+  PROXY_URL: null,  // https://<user>:<pass>@<host>:<port>
+  SN_URL: 'https://<instance>.service-now.com',
+  SN_USER: 'admin',
+  SN_PASS: '',
+  APP_NAME: '',
+};
